@@ -17,3 +17,4 @@ jobs:
           target: 'http://120.113.173.21:82/mutillidae'
           rules_file_name: '.zap/rules.tsv'
           cmd_options: '-a'
+
